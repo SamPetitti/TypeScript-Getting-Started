@@ -1,3 +1,5 @@
+//test
+
 function startGame() {
     var messagesElement = document.getElementById('messages');
     messagesElement!.innerText = 'Welcome to MultiMatch! Starting new game...';
